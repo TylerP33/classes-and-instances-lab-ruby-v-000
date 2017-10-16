@@ -4,4 +4,4 @@ class Person
 
   alan_key = Person.new
 
-end 
+end
